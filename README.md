@@ -29,7 +29,6 @@ Usability testing was conducted with five participants to evaluate the effective
 - User Satisfaction Score: 4.5/5
 
 ## Prototype Link
-Paste your Figma Prototype Link here
+https://www.figma.com/proto/Aa9F7C9p7Me4huYZZ5lKPy/Untitled?node-id=3-8&t=3JPEM0eSfhgYXwXx-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=3%3A8&show-proto-sidebar=1
 
-## Report
-The complete project documentation is available in the uploaded PDF report.
+
